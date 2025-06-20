@@ -26,7 +26,7 @@
 <rfc
   xmlns:xi="http://www.w3.org/2001/XInclude"
   category="std"
-  docName="draft-whimir-ippm-stamp-cos-ecn-latest"
+  docName="draft-whimir-ippm-stamp-cos-ecn-00"
   ipr="trust200902"
   obsoletes=""
   updates="8972"
@@ -46,7 +46,7 @@
     <title abbrev="STAMP CoS ECN Update">Update of the Simple Two-way Active Measurement Protocol Class-of-Service Extension - ECN</title>
     <!--  [REPLACE/DELETE] abbrev. The abbreviated title is required if the full title is longer than 39 characters -->
 
-    <seriesInfo name="Internet-Draft" value="draft-whimir-ippm-stamp-cos-ecn-latest"/>
+    <seriesInfo name="Internet-Draft" value="draft-whimir-ippm-stamp-cos-ecn-00"/>
 
 
     <author fullname="Greg White" initials="G" surname="White"> <!-- https://authors.ietf.org/en/rfcxml-vocabulary#author -->
@@ -189,7 +189,7 @@
         </artset>
       </figure>
 
-      <t>where the fields are defined as follows.</t>
+      <t>Where the fields are defined as follows:</t>
       <ul spacing="normal">
         <li>STAMP TLV Flags: eight-bit field; format presented in <xref target="RFC8972" section="4"/>.</li>
         <li>CoS (Class of Service) Type: one-octet field; the value <bcp14>MUST</bcp14> be set to 4.</li>
